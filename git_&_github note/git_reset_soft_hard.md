@@ -43,6 +43,8 @@ A → B
 
 `HEAD~1` ছাড়াও নির্দিষ্ট **commit ID** ব্যবহার করে `reset` করা যায়।
 
+### git reset < commit id > -ব্যবহার করলে আপনার করা শেষ commit সরিয়ে দিবে ।
+
 Example:
 
 ```bash

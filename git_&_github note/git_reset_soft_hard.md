@@ -172,8 +172,8 @@ git reset --soft HEAD~1
 git reset --soft 4d58407
 ```
 
-* `HEAD~1` → বর্তমান commit থেকে ১ ধাপ আগে
-* `4d58407` → নির্দিষ্ট commit ID
+- `HEAD~1` → বর্তমান commit থেকে ১ ধাপ আগে
+- `4d58407` → নির্দিষ্ট commit ID
 
 ### সহজে মনে রাখুন
 

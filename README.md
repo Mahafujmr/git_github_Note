@@ -23,3 +23,6 @@
 ### Working Directory-> Staging Area-> Local Repository-> Remote Repository
 
 ### project work -----> git add . ---> git commit -m ---> git push
+
+### Best Practice - Always try -Pull First
+### git pull / git pull origin < branch name > main/ master

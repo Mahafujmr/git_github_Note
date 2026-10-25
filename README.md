@@ -26,3 +26,6 @@
 
 ### Best Practice - Always try -Pull First
 ### git pull / git pull origin < branch name > main/ master
+
+# .gitignore -use hide other file or folder 
+1. open gitignore file and add hide file or folder 

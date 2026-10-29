@@ -29,3 +29,9 @@
 
 # .gitignore -use hide other file or folder 
 1. open gitignore file and add hide file or folder 
+
+# Git branch
+1. new bracnh - git branch ( branch name)
+2. check branch - git branch
+3. delete branch - git branch -d ( branch name)
+4. code merge main/master branch - git merge ( branch name)
